@@ -6,3 +6,4 @@ The projects are in the following order:
 - [L1 Sensitivity With Threshold Function](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/L1%20Sensitivity%20With%20Threshold%20Function.ipynb)
 - [Performing A Simple Differencing Attack On A Database](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Performing%20A%20Simple%20Differencing%20Attack%20On%20A%20Database.ipynb)
 - [Implementing Local Differential Privacy](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Implementing%20Local%20Differential%20Privacy.ipynb)
+- [Varying Amounts of Noise](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Varying%20Amounts%20of%20Noise.ipynb)
