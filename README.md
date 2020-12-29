@@ -7,3 +7,4 @@ The projects are in the following order:
 - [Performing A Simple Differencing Attack On A Database](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Performing%20A%20Simple%20Differencing%20Attack%20On%20A%20Database.ipynb)
 - [Implementing Local Differential Privacy](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Implementing%20Local%20Differential%20Privacy.ipynb)
 - [Varying Amounts of Noise](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Varying%20Amounts%20of%20Noise.ipynb)
+- [Formal Definition of Differential Privacy](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Formal%20Definition%20of%20Differential%20Privacy.ipynb)
