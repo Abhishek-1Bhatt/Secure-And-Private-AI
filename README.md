@@ -10,3 +10,4 @@ The projects are in the following order:
 - [Formal Definition of Differential Privacy](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Formal%20Definition%20of%20Differential%20Privacy.ipynb)
 - [Training A Neural Network To Return Differentially Private Results](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Training%20A%20Neural%20Network%20To%20Return%20Differentially%20Private%20Results.ipynb)
 - [PATE Analysis](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/PATE%20Analysis.ipynb)
+- [Final Project 1](https://github.com/Abhishek-1Bhatt/Secure-And-Private-AI/blob/main/Final%20Project%201.ipynb)
